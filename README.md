@@ -1,9 +1,7 @@
-<h1 align="center">Hi, I'm Mansi Srivastava 👋</h1>
-
 <p align="center">
-  <b>Data Analyst | AI Engineer Trainee</b><br/>
-  Turning complex, multi-source data into dashboards, pipelines, and AI-driven insights.
+  <img src="banner.svg" alt="Mansi Srivastava - Data Analyst | AI Engineer Trainee" width="100%"/>
 </p>
+
 
 <p align="center">
   <a href="mailto:srivastavamansi077@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
